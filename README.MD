@@ -34,7 +34,7 @@ A página NLW copa calendário é um projeto desenvolvido no evento Next Level W
 
 - [Linkedin](https://www.linkedin.com/in/matheuscarlosf/)
 - [Instagram](https://www.instagram.com/matheuscarlosf/)
-- [E-mail](matheuscarlos16@hotmail.com)
+- [E-mail] matheuscarlos16@hotmail.com
 
 ---
 
