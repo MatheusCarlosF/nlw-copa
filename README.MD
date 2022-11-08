@@ -28,7 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A página NLW copa calendário é um projeto desenvolvido no evento Next Level Week da Rocketseat, onde seu principal objetivo é mostrar os jogos da copa do mundo. A aplicação permite adiconar os jogos e diferentes cards divididos por data. Outro detalhe importante é a opção de mudar tema da página através do botão, onde foi implementado o armazenamento em cache da escolha do tema preferido pelo usuário.
+A página NLW copa calendário é um projeto desenvolvido no evento Next Level Week da Rocketseat, onde seu principal objetivo é mostrar os jogos da copa do mundo. A aplicação permite adicionar os jogos e diferentes cards divididos por data. Outro detalhe importante é a opção de mudar tema da página através do botão, onde foi implementado o armazenamento Cookies da escolha do tema preferido pelo usuário.
+
 
 ## :telephone_receiver: Contato
 
